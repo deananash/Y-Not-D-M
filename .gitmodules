@@ -2,3 +2,8 @@
 	path = OCA/account-financial-tools
 	url = git@github.com:OCA/account-financial-tools.git
 	branch = 11.0
+
+[submodule "sjpatel21/nash_addons"]
+	path = sjpatel21/nash_addons
+	url = git@github.com:sjpatel21/nash_addons.git
+	branch = master
